@@ -28,7 +28,7 @@ const App=() => {
   return (
     <>
       <StatusBar barStyle="dark-content" />
-      <text>변경훈 뜨나?</text>
+      <text>뭐라고 뜨나요?</text>
     </>
   );
 };
